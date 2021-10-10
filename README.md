@@ -13,3 +13,7 @@ taguchi
 noguchi
 
 shimizu
+
+# 進捗
+
+status.md 参照
