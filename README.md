@@ -4,6 +4,12 @@ vet-app向けレポジトリ
 
 # 参加者
 
-てばかり
+tebakari
 
-ふるい
+furui
+
+taguchi
+
+noguchi
+
+shimizu
