@@ -3,7 +3,7 @@
 
 <head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
-	<title>結果</title>
+	<title>POST結果</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
@@ -46,6 +46,7 @@
 		echo 'あと、ここ掘れワンワン🐶飼い犬が10万円見つけた！　';
 	}
 
+	// コメントも同じようなロジックで増やしてください。
 
 	echo '</p>'; // 占いのコメント<p>閉じ
 	?>
