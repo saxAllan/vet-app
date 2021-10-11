@@ -21,6 +21,5 @@ jobs:
           key: ${{ secrets.SERVER_PRIVATE_KEY }}
           # passphrase: ${{ secrets.SSH_PASS }}
           script: |
-            cd ${{ secrets.SERVER_DEPLOY_DIR }}
-            echo ${{ secrets.SERVER_DEPLOY_DIR }}
+            cd /var/www/vet-app
             git pull
