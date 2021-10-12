@@ -12,6 +12,8 @@
 	<?php
 	echo '<img src="moon_usagi_kage.png" style="width: 200px">';
 	echo '<h2>'.$_POST['name'] . 'さん、こんにちは</h2>';
+	$str = mb_strlen($_POST);
+	echo '文字数は'.$str.'です';
 	
 	echo '<p>恋愛運：';
 	$rennai=random_int(1,10);
