@@ -12,8 +12,8 @@
 	<?php
 	echo '<img src="moon_usagi_kage.png" style="width: 200px">';
 	echo '<h2>'.$_POST['name'] . 'さん、こんにちは</h2>';
-	$str = mb_strlen($_POST['name']);
-	echo '文字数は'.$str.'です';
+	$strLength = mb_strlen($_POST['name']);
+	echo '文字数は'.$strLength.'です';
 	
 	echo '<p>恋愛運：';
 	$rennai=random_int(1,10);
@@ -34,13 +34,13 @@
 
 	echo '<p>＝＝＝占いのコメント＝＝＝<br>';
 	if($wheather < 2){
-		echo '今日は隕石が降るかも';
+		echo '今日は隕石が降るかも。';
 	}elseif($wheather < 4){
-		echo '今日は幽霊と会うかも';
+		echo '今日は幽霊と会うかも。';
 	}elseif($wheather < 7){
 		echo '今日は精霊にあえるかも？';
 	}else{
-		echo '異世界に転生しなさい';
+		echo '異世界に転生しなさい。';
 	}
 
 
