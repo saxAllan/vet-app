@@ -17,7 +17,7 @@
 	
 	echo '<p>恋愛運：';
 	$rennai=random_int(1,10);
-	$wheather=random_int(1,3);
+	$wheather=random_int(1,9);
 	for ($i = 0; $i < $rennai; $i++) {
 		echo '♥';
 	}
@@ -33,12 +33,14 @@
 	echo '</p>'; // 運勢の<p>閉じ
 
 	echo '<p>＝＝＝占いのコメント＝＝＝<br>';
-	if($wheather = 1){
+	if($wheather < 2){
 		echo '今日は隕石が降るかも';
-	}elseif($wheather = 2){
+	}elseif($wheather < 4){
 		echo '今日は幽霊と会うかも';
-	}elseif($wheather = 3){
+	}elseif($wheather < 7){
 		echo '今日は精霊にあえるかも？';
+	}else{
+		echo '異世界に転生しなさい';
 	}
 
 
