@@ -12,11 +12,12 @@
 	<?php
 	echo '<img src="moon_usagi_kage.png" style="width: 200px">';
 	echo '<h2>'.$_POST['name'] . 'さん、こんにちは</h2>';
-	$str = mb_strlen($_POST);
+	$str = mb_strlen($_POST['name']);
 	echo '文字数は'.$str.'です';
 	
 	echo '<p>恋愛運：';
 	$rennai=random_int(1,10);
+	$wheather=random_int(1,3);
 	for ($i = 0; $i < $rennai; $i++) {
 		echo '♥';
 	}
@@ -32,6 +33,15 @@
 	echo '</p>'; // 運勢の<p>閉じ
 
 	echo '<p>＝＝＝占いのコメント＝＝＝<br>';
+	if($wheather = 1){
+		echo '今日は隕石が降るかも';
+	}elseif($wheather = 2){
+		echo '今日は幽霊と会うかも';
+	}elseif($wheather = 3){
+		echo '今日は精霊にあえるかも？';
+	}
+
+
 	if($rennai<4){
 		echo '今日の恋愛運は残念な感じ！余計な期待はしないで、堅実に生きよう👍　';
 	}elseif($rennai<8){
