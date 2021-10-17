@@ -47,13 +47,21 @@
 ***
 
 - 10月16日(土) ： noguchi
+  
     - MySQLを以下から呼び出せる．
+  
         -  mysqli_connect($host,$username,$passwd,$dbname,$port,$socket)
+        
         -  $host=string型 ホスト名またはIPアドレス
+         
         -  $username(任意) = string型 MySQL
+        
         -  $passwd(任意) = string型 $usernameのパスワード
+        
         -  $dbname(name) = string型 クリエが行われるデフォルトのデータベース
+        
         -  $port(任意) = string型 MySQLサーバーに接続する際のポート番号
+       
         -  $socket = string型 使用するソケット
 
 ***
