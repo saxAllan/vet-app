@@ -40,13 +40,13 @@
 
 	echo '<p>＝＝＝占いのコメント＝＝＝<br>';
 	if($wheather < 2){
-		echo '今日は隕石が降るかも。';
+		echo '今日は隕石が降るかも<br>。';
 	}elseif($wheather < 4){
-		echo '今日は幽霊と会うかも。';
+		echo '今日は幽霊と会うかも。<br>';
 	}elseif($wheather < 7){
-		echo '今日は精霊にあえるかも？';
+		echo '今日は精霊にあえるかも？<br>';
 	}else{
-		echo '異世界に転生しなさい。';
+		echo '異世界に転生しなさい。<br>';
 	}
 
 
