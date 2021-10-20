@@ -69,3 +69,9 @@
 - 10月17日（日）：田口
   
   - git addの確認
+
+***
+
+- 10月20日（水）：noguchi
+
+	- Laravelのセットアップをした．参考にしたサイト(https://qiita.com/MR_ROBOT/items/7614650f41d2ab6d1dff)
