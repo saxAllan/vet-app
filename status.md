@@ -75,3 +75,15 @@
 - 10月20日（水）：noguchi
 
 	- Laravelのセットアップをした．参考にしたサイト(https://qiita.com/MR_ROBOT/items/7614650f41d2ab6d1dff)
+
+***
+
+- 10月21日（木）：田口
+
+    - Laravelのサイト(https://codezine.jp/article/detail/13747)を読んだ
+  
+    - paiza#1~#4
+  
+    - phpの勉強(配列、関数、演算子など)
+
+***
