@@ -101,8 +101,7 @@
 ***
 
 
-10月27日(水)：noguchi
+- 10月27日(水)：noguchi
 
-    [ここ]<https://nebikatsu.com/7415.html/> を読みました．
-    
+    - [ここ]<https://nebikatsu.com/7415.html/> を読みました．
 ***
