@@ -99,3 +99,10 @@
     - Laravel 環境構築
 
 ***
+
+
+10月27日(水)：noguchi
+
+    [ここ]<https://nebikatsu.com/7415.html/> を読みました．
+    
+***
