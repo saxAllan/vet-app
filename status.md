@@ -103,12 +103,12 @@
 
 - 10月27日(水)：noguchi
 
-    - [ここ]<https://nebikatsu.com/7415.html/> を読みました．
+    - [ここ](https://nebikatsu.com/7415.html/) を読みました．
 ***
 
 - 10月28日(木)：noguchi
 
-    -  [ここ]<https://note.com/laravelstudy/n/nfd606997fc78> を読みました．
+    -  [ここ](https://note.com/laravelstudy/n/nfd606997fc78) を読みました．
 
     - 仮のページを作りました．
 
