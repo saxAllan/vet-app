@@ -50,7 +50,7 @@
   
     - MySQLを以下から呼び出せる．
   
-        -  mysqli_connect($host,$username,$passwd,$dbname,$port,$socket)
+        -  ```mysqli_connect($host,$username,$passwd,$dbname,$port,$socket)```
         
         -  $host=string型 ホスト名またはIPアドレス
          
