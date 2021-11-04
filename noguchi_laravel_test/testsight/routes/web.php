@@ -13,6 +13,22 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+/*
+| 2021/11/03
+| Route::get('/', 'TopPageController@show');
+|　not working 
+ */
+
+ 
 Route::get('/', function () {
     return view('top');
 });
+
+/*
+//トップページ
+Route::get('/', 'TopPageController@show');
+
+//会社概要ページ
+Route::get('/about', 'AboutPageController@show');
+*/
