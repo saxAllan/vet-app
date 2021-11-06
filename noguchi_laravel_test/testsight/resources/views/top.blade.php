@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="{{  asset('css/style.css') }}" />
-</head>
-<body>
-
+@include("parts.common")
 @include("parts.header")
 
 <main>
-	<h1>これはトップページです</h1>
+	<h1>これはトップページです．お納めください．</h1>
 </main>
 
 @include("parts.footer")

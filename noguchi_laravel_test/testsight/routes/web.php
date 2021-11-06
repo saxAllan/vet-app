@@ -16,14 +16,25 @@ use Illuminate\Support\Facades\Route;
 
 /*
 | 2021/11/03
+|
 | Route::get('/', 'TopPageController@show');
+/*
 |　not working 
  */
 
- 
+/* note defalt checked can use 
+*/
 Route::get('/', function () {
     return view('top');
 });
+
+
+Route::get('/about', function () {
+    return view('about');
+});
+/*
+*/
+
 
 /*
 //トップページ
