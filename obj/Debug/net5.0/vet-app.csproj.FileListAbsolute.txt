@@ -1,5 +1,0 @@
-/mnt/c/Users/runa9/Documents/vet-app/obj/Debug/net5.0/vet-app.csproj.AssemblyReference.cache
-/mnt/c/Users/runa9/Documents/vet-app/obj/Debug/net5.0/vet-app.GeneratedMSBuildEditorConfig.editorconfig
-/mnt/c/Users/runa9/Documents/vet-app/obj/Debug/net5.0/vet-app.AssemblyInfoInputs.cache
-/mnt/c/Users/runa9/Documents/vet-app/obj/Debug/net5.0/vet-app.AssemblyInfo.cs
-/mnt/c/Users/runa9/Documents/vet-app/obj/Debug/net5.0/vet-app.csproj.CoreCompileInputs.cache
