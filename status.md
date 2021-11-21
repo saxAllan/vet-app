@@ -240,3 +240,9 @@
     - テスト
 
 ***
+
+- 11月21日（日）：野口
+
+    - https://e-seventh.com/laravel-jetstream-install/を参考にしました．
+
+***
