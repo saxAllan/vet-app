@@ -233,16 +233,13 @@
 
     - SQL使えるようになりました
 
-***
-
-- 11月19日（金）；田口
-
-    - テスト
-
-***
 
 - 11月21日（日）：野口
 
     - https://e-seventh.com/laravel-jetstream-install/を参考にしました．
+
+    - composerでJetStreamをインストールしました．
+
+    - 今週は進捗をうめません．
 
 ***
