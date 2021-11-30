@@ -43,3 +43,6 @@ Route::get('/', 'TopPageController@show');
 //会社概要ページ
 Route::get('/about', 'AboutPageController@show');
 */
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
