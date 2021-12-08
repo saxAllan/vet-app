@@ -288,3 +288,11 @@
     - ログイン画面を作りました．
 
 ***
+
+-12月8日（水）：田口
+
+    - 登録画面の項目の追加を行いました。(所属のところ以外)(多分上手くいっていると思います)
+
+    - userテーブルへの項目追加:database/migrations/2021_12_08_..(以下略)のところで内容は確認できます
+
+    - 変更場所:app/Model/User.php 、app/Actions/Fortify/CreateNewUser.php 、resources/auth/register.blade.php
