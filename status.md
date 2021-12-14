@@ -296,3 +296,10 @@
     - userテーブルへの項目追加:database/migrations/2021_12_08_..(以下略)のところで内容は確認できます
 
     - 変更場所:app/Model/User.php 、app/Actions/Fortify/CreateNewUser.php 、resources/auth/register.blade.php
+
+***
+- 12月14日（火）：noguchi
+
+    - サーバーにあるものを編集したが，cssを記述したファイルを読み込めない．
+
+***
