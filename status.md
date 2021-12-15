@@ -298,8 +298,19 @@
     - 変更場所:app/Model/User.php 、app/Actions/Fortify/CreateNewUser.php 、resources/auth/register.blade.php
 
 ***
+
 - 12月14日（火）：noguchi
 
     - サーバーにあるものを編集したが，cssを記述したファイルを読み込めない．
+
+***
+
+- 12月16日（木）：saxAllan
+
+    - 野口の記法違反を修正
+
+    - github リポジトリ上にjetstream_testをコピー（ただし *まだ利用しないでください*）
+
+    - jetstream_testをリポジトリ上に反映させるにあたり、重要な事項があります。特に機密事項の取り扱いに気を付けてください（どこかのLINE Payさんは、個人情報を githubに上げて問題になりましたね？）
 
 ***
