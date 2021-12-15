@@ -22,5 +22,10 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 
+# add for Laravel(original)
+*.log
+*.sqlite
+.htaccess
+
 # add for Mac
 .DS_Store
